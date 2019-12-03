@@ -9,3 +9,6 @@ Problem Number <5>, <https://www.geeksforgeeks.org/find-pythagorean-triplet-in-a
 
 rachelk4_test.py : ACCEPTED
 I had a good experience writing the test.
+
+shwethar_test.py: ACCEPTED
+The test class was very beneficial 
